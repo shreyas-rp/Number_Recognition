@@ -25,7 +25,7 @@ pip install tensorflow keras numpy matplotlib
 To get started, follow these steps:   
   1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/shreyas-rp-GiT/Number_Recognition.git
+git clone https://github.com/shreyas-rp/Number_Recognition.git
 ```
   2. Navigate to the project directory:
 ```bash
